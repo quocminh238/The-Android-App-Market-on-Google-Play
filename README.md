@@ -100,7 +100,7 @@ Some characteristics of paid apps are:
 Are paid apps installed as much as free apps? It turns out that paid apps have a relatively lower number of installs than free apps, though the difference is not as stark as I would have expected!
 
 <p align="center">
-  <img src="https://github.com/quocminh238/The-Android-App-Market-on-Google-Play/blob/main/pictures/paid_apps_vs_free_apps.jpg">
+  <img src="https://github.com/quocminh238/The-Android-App-Market-on-Google-Play/blob/main/pictures/paid_apps_vs_free_apps.JPG">
 </p>
 
 # 10. Sentiment analysis of user reviews
